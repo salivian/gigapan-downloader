@@ -36,8 +36,7 @@ This software is made available for research and non-commercial use only.
 ### Citation
 Saliency-Assisted Navigation of Very Large Landscape Images<br />
 C.Y. Ip, and A. Varshney<br />
-IEEE Transactions on Visualization and Computer Graphics <br />
-17(12), 2011, pp 1737 - 1746.<br />
+IEEE Transactions on Visualization and Computer Graphics, 17(12), 2011, pp 1737 - 1746.<br />
 
 ```
 @article{ ip2011saliency,
@@ -50,5 +49,7 @@ IEEE Transactions on Visualization and Computer Graphics <br />
     year={2011},
 }
 ```
+
+https://youtu.be/FwSMjYHTNX8
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwSMjYHTNX8" frameborder="0" allowfullscreen></iframe>
