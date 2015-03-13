@@ -2,7 +2,7 @@
 
 Python scipt for downloading gigapan pictures
 
-This script should be used to only download gigapan tiles that you have copyright permissions to use.  Doing otherwise is a violation of the [http://www.gigapan.com/cms/about/terms Terms of Service of Gigapan, Inc.] and is expressly prohibited.
+This script should be used to only download gigapan tiles that you have copyright permissions to use.  Doing otherwise is a violation of the [Terms of Service of Gigapan, Inc.](http://www.gigapan.com/cms/about/terms) and is expressly prohibited.
 
 This Python 2.X script downloads gigapan pictures at their highest resolution.
 
