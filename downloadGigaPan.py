@@ -53,6 +53,7 @@ wt = int(math.ceil(width/tile_size))+1
 ht = int(math.ceil(height/tile_size))+1
 print(wt,ht,maxlevel)
 
+
 #loop around to get every tile
 for j in range(ht):
     for i in range(wt):
